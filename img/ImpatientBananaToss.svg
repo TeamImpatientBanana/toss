@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="184.79425"
+   width="220.74522"
    height="232.67128"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Impatient Banana.svg"
+   sodipodi:docname="ImpatientBananaToss.svg"
    inkscape:export-filename="C:\Users\Kaitlin\Desktop\Nowna\NowNaVS2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -34,10 +34,10 @@
      pagecolor="#6767ff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="87.88601"
+     inkscape:cx="123.83698"
      inkscape:cy="120.39404"
      inkscape:document-units="px"
      inkscape:current-layer="layer20"
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,123 +71,123 @@
      id="layer4"
      inkscape:label="background"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="leg base"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="leg shadow"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="foot base"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="leg2 base"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="leg shadow2"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="foot2 base"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="arm base"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="armshadow"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:label="arm2 base"
      id="g3846"
      inkscape:groupmode="layer"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="armshadow2"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="yellow body base"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="body shadow"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="g3833"
      inkscape:label="hand2 base"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      style="display:inline"
      inkscape:label="hand 1 base"
      id="g3829"
      inkscape:groupmode="layer"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="hand shadows"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      style="display:inline"
      inkscape:label="hand shadows2"
      id="g3974"
      inkscape:groupmode="layer"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="shoe shadows"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:label="shoe shadows2"
      id="g4006"
      inkscape:groupmode="layer"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer17"
      inkscape:label="Top"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="Bottum"
-     transform="translate(-342.95797,-369.49059)" />
+     transform="translate(-307.007,-369.49059)" />
   <g
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="FACE"
      style="display:inline"
-     transform="translate(-342.95797,-369.49059)">
+     transform="translate(-307.007,-369.49059)">
     <path
        style="fill:#3d2c07;fill-opacity:1;stroke:none"
        d="m 410.11369,552.16593 c -3.32134,7.47173 -8.97744,17.55723 -11.84559,29.30362 0.97663,4.10524 1.89494,7.38257 2.57299,9.52399 8.52383,-1.27974 12.45032,-2.05887 21.25038,-2.14707 0,0 -3.74157,-3.58121 -9.42427,-11.20021 4.10055,-3.4974 7.73992,-7.0201 11.94508,-10.78281"
@@ -340,14 +340,14 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer"
-     transform="translate(-42.01609,-68.058589)" />
+     transform="translate(-6.0651239,-68.058589)" />
   <g
      inkscape:label="ref"
      inkscape:groupmode="layer"
      id="layer1"
      style="opacity:0.62999998;display:none"
      sodipodi:insensitive="true"
-     transform="translate(-342.95797,-369.49059)">
+     transform="translate(-307.007,-369.49059)">
     <image
        y="345.8447"
        x="275.62247"
