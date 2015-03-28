@@ -13,6 +13,7 @@
 
 .col1{
 	text-align: center;
+	color: 
 }
 
 .col2{
@@ -28,6 +29,13 @@
 	padding-top: 50%;
 }
 
+#redTeamTable{
+	background-color: #f2dede;
+}
+
+#blueTeamTable{
+	background-color: #d9edf7;
+}
 
 
 
