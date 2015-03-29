@@ -21,7 +21,7 @@ function initUser(scoreListRef) {
 	cachedVotesAvaliable = 0;
 
 	//put user in database with default params
-	var userScoreRef = scoreListRef.child(useranimal+usernumber);
+	var userScoreRef = scoreListRef.child(userteam).child(useranimal+usernumber);
 
 	//error if it Firebase sync doesn't work
 	var onComplete = function(error) {
