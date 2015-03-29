@@ -6,6 +6,9 @@ var cachedPointCount;
 var cachedVoteCount;
 var cachedVotesAvaliable;
 
+var blueTotal;
+var redTotal;
+
 var LEADERBOARD_SIZE = 10;
 
 // Create our Firebase reference
@@ -29,3 +32,12 @@ scoreListView.on('child_added', function (newScoreSnapshot, prevScoreName) {
 	console.log("child_added");
 	handleScoreAdded(newScoreSnapshot, prevScoreName);
 });
+
+// Add a callback to handle when a score changes or moves positions.
+var changedCallback = function (scoreSnapshot, prevScoreName) {
+  handleScoreRemoved(scoreSnapshot);
+  handleScoreAdded(scoreSnapshot, prevScoreName);
+};
+
+scoreListView.on('child_moved', changedCallback);
+scoreListView.on('child_changed', changedCallback);

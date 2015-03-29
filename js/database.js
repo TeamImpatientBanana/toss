@@ -76,3 +76,10 @@ function handleScoreAdded(scoreSnapshot, prevScoreName) {
 	}
 */
 }
+
+// Helper function to handle a score object being removed; just removes the corresponding table row.
+function handleScoreRemoved(scoreSnapshot) {
+  var removedScoreRow = htmlForPath[scoreSnapshot.key()];
+  removedScoreRow.remove();
+  delete htmlForPath[scoreSnapshot.key()];
+}
